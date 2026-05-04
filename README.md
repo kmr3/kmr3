@@ -41,12 +41,6 @@ I like building small but practical tools that come from real problems in my own
 
 Most of my current projects are private, but I build them as personal MVPs rather than simple tutorials.
 
-### 📱 iOS Apps
-
-- Study planning and exam practice tools for 42 preparation
-- Food inventory management for solo living
-- Weight, meal, exercise, and self-improvement tracking apps
-
 ### ⚙️ Backend
 
 - Real-time messaging backend with **Elixir** and **Phoenix**
@@ -74,6 +68,7 @@ Instead of only following tutorials, I try to create tools that solve real probl
 ## 📫 Contact
 
 - GitHub: [@kmr3](https://github.com/kmr3)
+- Discord: [@kmr3]
 
 ---
 
