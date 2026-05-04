@@ -71,14 +71,6 @@ Instead of only following tutorials, I try to create tools that solve real probl
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmr3&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmr3&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - GitHub: [@kmr3](https://github.com/kmr3)
