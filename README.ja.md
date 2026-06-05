@@ -85,5 +85,3 @@
 - Mail: [kmrtyan@gmail.com](mailto:kmrtyan@gmail.com)
 
 ---
-
-見に来てくれてありがとうございます！
